@@ -11,22 +11,21 @@ Processamento de Arquivos
 [//]: # (Add your gifs/images here:)
 [//]:<div>
 [//]:  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>
+[//]:  <img src="IMAGE_2_URL" alt="demo" height="425">
+[//]:</div>
 
 <hr />
 
-## Features
+## Recursos
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
 
 - **C** — Usado como base do projeto
 
-## Getting started
+[//]:## Getting started
 
-Describe here the way to use/install your project
+[//]:Describe here the way to use/install your project
 
 
-## License
+[//]:## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+[//]:This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
