@@ -9,10 +9,10 @@ Processamento de Arquivos
 <p align="center">Criar processos filhos, que realizam o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizam o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos.</p>
 
 [//]: # (Add your gifs/images here:)
-/*<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
+//<div>
+//  <img src="IMAGE_1_URL" alt="demo" height="425">
   <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>*/
+</div>
 
 <hr />
 
