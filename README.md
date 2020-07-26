@@ -1,0 +1,2 @@
+# ProcessamentodeArquivos
+Projeto realizada na disciplina de Fundamentos de Sistemas Operacionais com o objetivo de implementar um programa que crie processos filhos, que realizaram o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizaram o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos. 
