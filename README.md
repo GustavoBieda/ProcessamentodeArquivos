@@ -1,18 +1,12 @@
 <h1 align="center">
 <br>
-  <img src="https://cdn.icon-icons.com/icons2/906/PNG/512/processing-file_icon-icons.com_69974.png" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://cdn.icon-icons.com/icons2/906/PNG/512/processing-file_icon-icons.com_69974.png" alt="YOUR_PROJECT_NAME" width="50">
 <br>
 <br>
 Processamento de Arquivos
 </h1>
 
-<p align="center">Criar processos filhos, que realizaram o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizaram o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos.</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
+<p align="center">Criar processos filhos, que realizam o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizam o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos.</p>
 
 [//]: # (Add your gifs/images here:)
 <div>
