@@ -21,11 +21,11 @@ Processamento de Arquivos
 
 - **C** — Usado como base do projeto
 
-[//]:## Getting started
+[//]: ## Getting started
 
-[//]:Describe here the way to use/install your project
+[//]: Describe here the way to use/install your project
 
 
-[//]:## License
+[//]: ## License
 
-[//]:This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+[//]: This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
