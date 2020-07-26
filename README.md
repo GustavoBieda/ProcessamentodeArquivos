@@ -1,15 +1,12 @@
-# ProcessamentodeArquivos
-Projeto realizada na disciplina de Fundamentos de Sistemas Operacionais com o objetivo de implementar um programa que crie processos filhos, que realizaram o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizaram o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos. 
-
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://cdn.icon-icons.com/icons2/906/PNG/512/processing-file_icon-icons.com_69974.png" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Processamento de Arquivos
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Criar processos filhos, que realizaram o processamento de arquivos (contagem do número de linhas de cada arquivo) de forma independente, e atualizaram o resultado na memória compartilhada do processo pai que consolida e imprime o número de linhas total processado pelos processos filhos.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
